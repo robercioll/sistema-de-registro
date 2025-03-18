@@ -30,7 +30,7 @@ function isValidName(name, error) {
 
 function checkEnter(event) {
     if (event.key === "Enter") {
-        addParticipant();
+        agregarAmigo();
     }
 }
 
